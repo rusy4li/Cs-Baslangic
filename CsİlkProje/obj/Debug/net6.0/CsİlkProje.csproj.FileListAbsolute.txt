@@ -1,0 +1,15 @@
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\bin\Debug\net6.0\CsİlkProje.exe
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\bin\Debug\net6.0\CsİlkProje.deps.json
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\bin\Debug\net6.0\CsİlkProje.runtimeconfig.json
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\bin\Debug\net6.0\CsİlkProje.dll
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\bin\Debug\net6.0\ref\CsİlkProje.dll
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\bin\Debug\net6.0\CsİlkProje.pdb
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\CsİlkProje.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\CsİlkProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\CsİlkProje.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\CsİlkProje.AssemblyInfo.cs
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\CsİlkProje.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\CsİlkProje.dll
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\ref\CsİlkProje.dll
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\CsİlkProje.pdb
+C:\Users\burak\source\repos\CsİlkProje\CsİlkProje\obj\Debug\net6.0\CsİlkProje.genruntimeconfig.cache
