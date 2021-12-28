@@ -1,2 +1,2 @@
-# Cs-Baslangic
- >>> Cs Başlangıç Projeleri
+# C#-Başlangıç
+ >>> C# Başlangıç Projeleri
